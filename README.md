@@ -9,7 +9,8 @@ This is a simple git that'll help SE's get up and running for Microsoft/Azure ba
 
 1. **For ultimate convenience:** Hit the 'Easy Button' below
 
-2. Change the resource group and region you'll deploy in. (This is changed in the users profile. Is correct.)
+2. Change the resource group and region you'll deploy in. (This is changed in the users profile. Is correct.) Use the admin name, "datastax" with the provided password.
+        
 3. Choose the right number of nodes and instance type (1-2 cores per person)
 
 4. Get the OpsCenter IP from resources.azure.com (see below)
