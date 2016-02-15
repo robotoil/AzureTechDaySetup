@@ -17,14 +17,15 @@ This is a simple git that'll help SE's get up and running for Microsoft/Azure ba
 
 5. Once all nodes have provisioned, ssh into the cluster and restart DSE in Search + Analytics mode
 
-ssh datastax@137.117.44.100
+
+
+
+        ssh datastax@137.117.44.100
+        ssh datastax@137.117.44.100
 OpsCenter: ssh datastax@40.114.89.113
 stop the dse service: sudo service dse stop
 dse directory: sudo vi /etc/default/dse
 start the dse service: sudo service dse start
-
-
-        ssh datastax@137.117.44.100
         ssh datastax@137.117.45.234
         ssh datastax@137.117.45.56
         ssh datastax@104.211.3.101
