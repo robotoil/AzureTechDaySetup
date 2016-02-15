@@ -35,12 +35,12 @@ ssh datastax@137.117.44.100
         ssh datastax@137.117.45.18
         ssh datastax@137.117.45.212
         
-//ops   ssh datastax@40.114.89.113
+ ops   ssh datastax@40.114.89.113
 
 
-// stop the dse service:  sudo service dse stop
-// dse directory:         sudo vi /etc/default/dse
-// start the dse service: sudo service dse start
+ stop the dse service:  sudo service dse stop
+ dse directory:         sudo vi /etc/default/dse
+ start the dse service: sudo service dse start
 
 6. Copy and paste the commands in the setup script in the root of this git on one of the nodes.
 
